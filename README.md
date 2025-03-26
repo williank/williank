@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Olá, mundo! Eu sou Willian Kevenis! 🚀
 
-<!--
-**williank/williank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Engenheiro de Software | Backend Pythonista | DevOps Enthusiast 🎯
 
-Here are some ideas to get you started:
+📍 Maceió, Brasil  
+📧 wlkf94@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/williankevenis)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+Apaixonado por tecnologia desde 2010, mergulhei no mundo do Python 🐍 e nunca mais parei! 
+Com foco no backend, sou especialista em **Django**, **FastAPI**, **Docker** e **Kubernetes**, sempre buscando entregar código limpo, escalável e eficiente. 
+Além disso, sou um entusiasta de **DevOps**, trabalhando com **AWS, GCP e Azure** para manter sistemas rodando suavemente. 🌍☁️
+
+Sempre curioso, adoro explorar novas tecnologias e tendências! 🚀
+
+---
+
+### 🔥 Tecnologias e Ferramentas
+
+🔹 **Linguagens**: Python 🐍 | JavaScript ⚡  
+🔹 **Frameworks**: Django | FastAPI | Flask  
+🔹 **Banco de Dados**: PostgreSQL 🐘 | MySQL | MongoDB 🍃 | Oracle  
+🔹 **DevOps & Infra**: Docker 🐳 | Kubernetes ☸️ | CI/CD 🛠️  
+🔹 **Data & Automação**: Pandas 📊 | Apache Airflow 🌬️ | RabbitMQ 🐇  
+🔹 **Frontend (tentando 😅)**: React.js ⚛️
+
+
+---
+
+### 🚀 O que estou aprendendo agora?
+
+- 📌 Explorando **Machine Learning** 🤖
+- 📌 Aprofundando conhecimentos em **Kubernetes** ☸️
+- 📌 Melhorando minhas habilidades em **React.js** ⚛️
+
+---
+
+### 🤝 Conecte-se comigo!
+
+💬 Sempre aberto para trocar ideias sobre tecnologia, carreira e inovações!  
+📩 Me chama no [LinkedIn](https://linkedin.com/in/williankevenis) ou manda um e-mail: **wlkf94@gmail.com** 📬
+
+🚀 _"Code, Coffee & Repeat! ☕💻"_
