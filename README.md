@@ -22,7 +22,7 @@ Sempre curioso, adoro explorar novas tecnologias e tendências! 🚀
 
 🔹 **Linguagens**: Python 🐍 | JavaScript ⚡  
 🔹 **Frameworks**: Django | FastAPI | Flask  
-🔹 **Banco de Dados**: PostgreSQL 🐘 | MySQL | MongoDB 🍃 | Oracle  
+🔹 **Banco de Dados**: PostgreSQL 🐘 | MySQL | MongoDB 🍃 | Oracle  | Redis
 🔹 **DevOps & Infra**: Docker 🐳 | Kubernetes ☸️ | CI/CD 🛠️  
 🔹 **Data & Automação**: Pandas 📊 | Apache Airflow 🌬️ | RabbitMQ 🐇  
 🔹 **Frontend (tentando 😅)**: React.js ⚛️
